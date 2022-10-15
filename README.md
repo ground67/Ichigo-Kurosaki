@@ -5,7 +5,7 @@ Base Bot WhatsApp Multi Device With [`Baileys Multi Device`](https://github.com/
 
 ## FYI
 > Mau Buat Fitur Tapi Ga Punya Databasenya?
-> Cek Nih [`Database`](https://github.com/NzrlAfndi/Databasee) Gw
+> Cek Nih [`Database`](https://github.com/NzrlAfndi/Data) Gw
 > Free Kok
 
 ## Note
