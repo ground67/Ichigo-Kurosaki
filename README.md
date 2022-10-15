@@ -38,7 +38,7 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
 ```bash
-git clone https://github.com/NzrlAfndi/Ichigo-Kurosaki
+git clone https://github.com/ground67/Ichigo-Kurosaki
 cd Ichigo-Kurosaki
 yarn
 npm start
